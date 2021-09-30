@@ -1,0 +1,7 @@
+.Formulario {
+    display: flex;
+    margin: 10px auto;
+}
+input,button {
+    margin: 3px;
+}

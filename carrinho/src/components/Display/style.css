@@ -1,0 +1,38 @@
+.estoque {
+    list-style: none;
+    display: flex;
+    width: 90%;
+    flex-wrap: wrap;
+}
+.codigo {
+    font-size: 10px;
+    text-align: left;
+}
+.itensestoque{
+    font-size: 20px;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid white;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.description {
+    font-size: 12px;
+}
+.price {
+    font-size: 15px;
+    margin: 2px;
+    height: auto;
+}
+.discount{
+    font-size: 15px;
+    margin: 2px;
+    height: auto;
+}
+h4{
+    margin: 5px;
+}
